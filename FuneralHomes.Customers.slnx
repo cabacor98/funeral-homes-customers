@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FuneralHomes.Customers.Api/FuneralHomes.Customers.Api.csproj" />
+    <Project Path="src/FuneralHomes.Customers.Application/FuneralHomes.Customers.Application.csproj" />
+    <Project Path="src/FuneralHomes.Customers.Domain/FuneralHomes.Customers.Domain.csproj" />
+    <Project Path="src/FuneralHomes.Customers.Infrastructure/FuneralHomes.Customers.Infrastructure.csproj" />
+  </Folder>
+</Solution>

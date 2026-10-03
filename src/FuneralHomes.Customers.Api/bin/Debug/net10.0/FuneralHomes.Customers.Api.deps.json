@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FuneralHomes.Customers.Api/1.0.0": {
+        "dependencies": {
+          "FuneralHomes.Customers.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "FuneralHomes.Customers.Api.dll": {}
+        }
+      },
+      "FuneralHomes.Customers.Application/1.0.0": {
+        "dependencies": {
+          "FuneralHomes.Customers.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FuneralHomes.Customers.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FuneralHomes.Customers.Domain/1.0.0": {
+        "runtime": {
+          "FuneralHomes.Customers.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FuneralHomes.Customers.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FuneralHomes.Customers.Application": "1.0.0"
+        },
+        "runtime": {
+          "FuneralHomes.Customers.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuneralHomes.Customers.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuneralHomes.Customers.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuneralHomes.Customers.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuneralHomes.Customers.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

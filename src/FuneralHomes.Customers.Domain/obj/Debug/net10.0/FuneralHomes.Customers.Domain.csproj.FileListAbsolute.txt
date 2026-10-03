@@ -1,0 +1,11 @@
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\bin\Debug\net10.0\FuneralHomes.Customers.Domain.deps.json
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\bin\Debug\net10.0\FuneralHomes.Customers.Domain.dll
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\bin\Debug\net10.0\FuneralHomes.Customers.Domain.pdb
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\obj\Debug\net10.0\FuneralHomes.Customers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\obj\Debug\net10.0\FuneralHomes.Customers.Domain.AssemblyInfoInputs.cache
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\obj\Debug\net10.0\FuneralHomes.Customers.Domain.AssemblyInfo.cs
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\obj\Debug\net10.0\FuneralHomes.Customers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\obj\Debug\net10.0\FuneralHomes.Customers.Domain.dll
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\obj\Debug\net10.0\refint\FuneralHomes.Customers.Domain.dll
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\obj\Debug\net10.0\FuneralHomes.Customers.Domain.pdb
+C:\Users\CESARBA\Desktop\funeral homes\repos\funeral-homes-customers\src\FuneralHomes.Customers.Domain\obj\Debug\net10.0\ref\FuneralHomes.Customers.Domain.dll
